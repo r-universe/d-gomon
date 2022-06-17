@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cgrcusum",
+    "oncran": true
+  },
+  {
+    "package": "success",
+    "oncran": true
+  }
+]
